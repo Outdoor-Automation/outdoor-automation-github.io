@@ -1,0 +1,30 @@
+- title: Outdoor Automation
+  url: "/"
+  side: left
+
+- title: "Case Studies"
+  url: "/design/"
+  side: left
+  dropdown:
+  - title: "Goose Chasing"
+    url: "/design/grid/"
+  - title: "Pipe inspection"
+    url: "/design/typography/typography/"
+  - title: "Crop Monitoring"
+    url: "/design/page/"
+  - title: "Boat Inspection"
+    url: "/design/post-left-sidebar/"
+  - title: "Underwater mapping"
+    url: "/design/post-right-sidebar/"
+  - title: "Search and Rescue"
+    url: "/design/page-fullwidth/"
+
+
+- title: "About Us"
+  url: "/headers/"
+  side: left
+
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
