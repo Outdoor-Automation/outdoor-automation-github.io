@@ -11,20 +11,20 @@ header:
 widget1:
   title: "Ground"
   url: 'http://127.0.0.1:4000/feeling-responsive/images/open_rover.jpg'
-  image: http://127.0.0.1:4000/feeling-responsive/images/open_rover.jpg
+  image: https://github.com/Outdoor-Automation/images/open_rover.jpg
   text: 'Tele-operated, semi-autonomous, and fully-autonomous solutions for applications ranging from inspection, pest-deterance, asset moving and more...'
 
 widget2:
   title: "Underwater"
   url: 'https://github.com/Phlow/feeling-responsive'
   text: 'Being one of the '
-  image: 'http://127.0.0.1:4000/feeling-responsive/images/blue_rov_2.jpg'
+  image: 'https://github.com/Outdoor-Automation/images/blue_rov_2.jpg'
   text: 'Tele-operated underwater search, underwater mapping, water sampling, boat inspection and more...'
 
 widget3:
   title: "Air"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: http://127.0.0.1:4000/feeling-responsive/images/dji_matrice.jpg
+  image: https://github.com/Outdoor-Automation/images/dji_matrice.jpg
   text: 'Teleoperated, semi-autonomous, and fully autonomous mapping, power line inspection, pipe inspection, cell tower inspection and more...'
 #
 # Use the call for action to show a button on the frontpage

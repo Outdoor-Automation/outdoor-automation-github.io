@@ -6,18 +6,12 @@
   url: "/design/"
   side: left
   dropdown:
-  - title: "Goose Chasing"
+  - title: "Pest Deterance"
     url: "/design/grid/"
-  - title: "Pipe inspection"
+  - title: "Security"
     url: "/design/typography/typography/"
   - title: "Crop Monitoring"
     url: "/design/page/"
-  - title: "Boat Inspection"
-    url: "/design/post-left-sidebar/"
-  - title: "Underwater mapping"
-    url: "/design/post-right-sidebar/"
-  - title: "Search and Rescue"
-    url: "/design/page-fullwidth/"
 
 
 - title: "About Us"
