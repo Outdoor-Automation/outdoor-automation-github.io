@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: https://raw.githubusercontent.com/Outdoor-Automation/outdoor-automation-github.io/master/images/outdoor_automation_logo.jpg
+  image_fullwidth: https://raw.githubusercontent.com/Outdoor-Automation/outdoor-automation-github.io/master/_site/assets/img/logo.png
 
 widget1:
   title: "Ground"
