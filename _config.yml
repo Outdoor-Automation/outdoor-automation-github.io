@@ -24,8 +24,8 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 author: nick fragale
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-url: 'www.outdoor-automation.com'
-baseurl: '/'
+url: ''
+baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
