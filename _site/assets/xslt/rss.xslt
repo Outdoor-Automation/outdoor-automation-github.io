@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000/outdoor-automation-github.io/master/assets/css/styles_feeling_responsive.scss">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000//assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000/outdoor-automation-github.io/master/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000//assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="http://localhost:4000/outdoor-automation-github.io/master/assets/xslt/rss.xslt">
+	<link rel="canonical" href="http://localhost:4000//assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
-	<meta property="og:url" content="http://localhost:4000/outdoor-automation-github.io/master/assets/xslt/rss.xslt">
+	<meta property="og:url" content="http://localhost:4000//assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Outdoor Automation">
@@ -62,34 +62,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/outdoor-automation-github.io/master/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000//humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/outdoor-automation-github.io/master/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000//assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/outdoor-automation-github.io/master/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000//assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/outdoor-automation-github.io/master/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000//assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/outdoor-automation-github.io/master/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000//assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/outdoor-automation-github.io/master/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000//assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/outdoor-automation-github.io/master/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000//assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/outdoor-automation-github.io/master/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000//assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/outdoor-automation-github.io/master/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000//assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/outdoor-automation-github.io/master/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000//assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/outdoor-automation-github.io/master/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000//assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="http://localhost:4000/outdoor-automation-github.io/master/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000//assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -105,7 +105,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/outdoor-automation-github.io/master" class="icon-tree"> Outdoor Automation</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/" class="icon-tree"> Outdoor Automation</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -140,7 +140,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000/outdoor-automation-github.io/master/contact/">Contact</a></li>
+              <li><a  href="http://localhost:4000//contact/">Contact</a></li>
 
             
             
@@ -159,7 +159,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/outdoor-automation-github.io/master/">Outdoor Automation</a></li>
+              <li><a  href="http://localhost:4000//">Outdoor Automation</a></li>
               <li class="divider"></li>
 
             
@@ -176,24 +176,24 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/outdoor-automation-github.io/master/design/">Case Studies</a>
+                <a  href="http://localhost:4000//design/">Case Studies</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/outdoor-automation-github.io/master/design/grid/">Pest Deterance</a></li>
+                      <li><a  href="http://localhost:4000//design/grid/">Pest Deterance</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/outdoor-automation-github.io/master/design/typography/typography/">Security</a></li>
+                      <li><a  href="http://localhost:4000//design/typography/typography/">Security</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/outdoor-automation-github.io/master/design/page/">Crop Monitoring</a></li>
+                      <li><a  href="http://localhost:4000//design/page/">Crop Monitoring</a></li>
                     
                   </ul>
 
@@ -210,7 +210,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/outdoor-automation-github.io/master/headers/">About Us</a></li>
+              <li><a  href="http://localhost:4000//headers/">About Us</a></li>
               <li class="divider"></li>
 
             
@@ -234,8 +234,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/outdoor-automation-github.io/master/" title="Outdoor Automation – Affordable, industrial grade autonomous solutions">
-				<img src="http://localhost:4000/outdoor-automation-github.io/master/assets/img/logo.png" alt="Outdoor Automation – Affordable, industrial grade autonomous solutions">
+			<a id="logo" href="http://localhost:4000//" title="Outdoor Automation – Affordable, industrial grade autonomous solutions">
+				<img src="http://localhost:4000//assets/img/logo.png" alt="Outdoor Automation – Affordable, industrial grade autonomous solutions">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -313,7 +313,7 @@
 
             <p class="shadow-black">
               »Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.
-              <a href="http://localhost:4000/outdoor-automation-github.io/master/info/">More ›</a>
+              <a href="http://localhost:4000//info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -361,7 +361,7 @@
 		
 
 
-<script src="http://localhost:4000/outdoor-automation-github.io/master/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000//assets/js/javascript.min.js"></script>
 
 
 
