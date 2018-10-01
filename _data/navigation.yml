@@ -2,21 +2,21 @@
   url: "/"
   side: left
 
-- title: "Case Studies"
-  url: "/design/"
-  side: left
-  dropdown:
-  - title: "Pest Deterance"
-    url: "/design/grid/"
-  - title: "Security"
-    url: "/design/typography/typography/"
-  - title: "Crop Monitoring"
-    url: "/design/page/"
+
+#- title: "Case Studies"
+#  url: "/case_studies/"
+#  side: left
+#  dropdown:
+#  - title: "Pest Deterance"
+#    url: "/pest_deterance/"
+#  - title: "Crop Monitoring"
+#    url: "/crop_monitoring"
 
 
-- title: "About Us"
-  url: "/headers/"
-  side: left
+
+#- title: "About Us"
+#  url: "/about_us/"
+#  side: left
 
 
 - title: "Contact"
